@@ -5,7 +5,9 @@
 ### My name is [Jonathan Jiménez], but you can also call me [Jonfer].
 
 ## Here are some of my statistics 🚀
-_(Unfortunately, there was an error in fetching the statistics. Please provide the correct GitHub username and try again.)_
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JonferJmz&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonferJmz&theme=tokyonight" alt="mystreak"/>
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonferJmz&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning Python, C++, HTML5.
 
