@@ -13,7 +13,9 @@
 
 ## Contact me: 
 📫 [![Gmail Badge](https://img.shields.io/badge/-huesomillonario666@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:huesomillonario666@gmail.com)](mailto:huesomillonario666@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-jonfer.jmz-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/jonfer.jmz/)](https://www.instagram.com/jonfer.jmz/)
+📸[![Instagram Badge](https://img.shields.io/badge/-jonfer.jmz-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/jonfer.jmz/)](https://www.instagram.com/jonfer.jmz/)
+💼[![LinkedIn Badge](https://img.shields.io/badge/-jonathan--jim%C3%A9nez-blue?style=flat-roundedrectangle&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-jim%C3%A9nez-b3337b1a7/)](https://www.linkedin.com/in/jonathan-jim%C3%A9nez-b3337b1a7/)
+
 
 
 <h6 align="center">Made with ❤️ by me (probably)</h6>
