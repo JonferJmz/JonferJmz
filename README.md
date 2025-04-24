@@ -23,3 +23,5 @@
 
 ------
 Credit: [JonferJmz](https://github.com/JonferJmz)
+![snake gif](https://github.com/JonferJmz/JonferJmz/blob/output/github-contribution-grid-snake.svg)
+
