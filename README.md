@@ -3,7 +3,7 @@
 ### :smiley_cat: I am a student at UDN Tlaquepaque University.
 
 ### My name is [Jonathan Jiménez], but you can also call me [Jonfer].
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Jonfer+%F0%9F%91%8B;A+passionate+DevOps+student;Always+learning+new+tech+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Jonfer+%F0%9F%91%8B;A+passionate+DevOps+student;Always+learning+new+tech!+%F0%9F%9A%80)
 
 ## Here are some of my statistics 🚀
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JonferJmz&show_icons=true&theme=tokyonight)
@@ -23,5 +23,4 @@
 
 ------
 Credit: [JonferJmz](https://github.com/JonferJmz)
-![snake gif](https://github.com/JonferJmz/JonferJmz/blob/output/github-contribution-grid-snake.svg)
 
