@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonferJmz&theme=tokyonight" alt="mystreak"/>
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonferJmz&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning Python, C++, HTML5.
+🌱 I'm currently learning Python, C++, and HTML5 — but my main strength is Bash scripting.
 
 ## Contact me: 
 📫 [![Gmail Badge](https://img.shields.io/badge/-huesomillonario666@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:huesomillonario666@gmail.com)](mailto:huesomillonario666@gmail.com)
